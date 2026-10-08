@@ -83,6 +83,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
+This model was created as part of the project Smart control for safer roads: Development and testing of advanced adaptive cruise control systems (SmartACC), which is funded by the Deutsche Forschungsgemeinschaft (DFG) under grant number 546728715.
+
 - Environment implementation based on Gymnasium framework
 - PPO implementation from Stable-Baselines3
 - Inspired by the Sugiyama experiment on traffic oscillations
